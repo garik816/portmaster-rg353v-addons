@@ -1,0 +1,9 @@
+{
+  "Name": "PortMaster Touch",
+  "Author": "garik816",
+  "Version": "0.1.1",
+  "Description": "Experimental RG353V touchscreen-to-mouse input for the mainline port, preserving gamepad controls.",
+  "UniqueID": "garik816.PortMasterTouch",
+  "EntryDll": "PortMasterTouch.dll",
+  "MinimumApiVersion": "4.0.0"
+}

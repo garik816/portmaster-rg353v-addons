@@ -1,0 +1,10 @@
+{
+  "Name": "PortMaster Rumble",
+  "Author": "Codex",
+  "Version": "0.2.2",
+  "Description": "Sends Stardew Valley game events to PortMaster PWM rumble helper via FIFO, with Generic Mod Config Menu support.",
+  "UniqueID": "Codex.PortMasterRumble",
+  "EntryDll": "PortMasterRumble.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
